@@ -18,6 +18,4 @@ new_york_city.csv
 ### Credits
 all credis go to udacity and their crew.
 
-This message is the second change of the readme.md for the documentation branch commit.
-
-This message is the third change of the readme.md for the documentation branch commit.
+-git commit -m "change readme.md in ref branch 1.
